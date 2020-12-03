@@ -10,4 +10,4 @@ botRem.on('message', message => {
     message.reply('ถึงยังไงเรมก็รักสุบารุค่ะ');
   }
 });
-botRem.login('เอา token มาใส่ตรงนี้');
+botRem.login('Nzg0MDUyNTUyNjk4Mjk4Mzc5.X8jr1w.MuXixHte2PjZgbanqbOtMznzoAc');
